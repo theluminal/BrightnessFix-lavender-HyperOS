@@ -1,0 +1,6 @@
+id=lowbrightnessfix
+name=Low Brightness Fixer
+version=1.0
+versionCode=1
+author=luminal
+description=Adjusts screen brightness to a higher maximum
